@@ -1,0 +1,18 @@
+> container for 24 elements created!
+> container for 26 node created!
+>   Combined Profile......................: ''
+>   L - Long plate........................:         50.0 mm
+>   L - Short plate.......................:        100.0 mm
+>   L - profile thickness.................:          6.0 mm
+>   O - outer diameter....................:         60.3 mm
+>   O - profile thickness.................:          2.3 mm
+>   Nodes on O - profile .................: 20
+> Profile.................: 'CombinedProfile1'
+> List of profile's section values:
+  Area......................:      21.98 cm^2
+  Sy,Sz.in user coord....:      40.24       0.00 cm^3
+  Iyy,Izz,Iyz.in user coord:     178.95     941.55       0.00 cm^4
+  yc,zc.(center of mass).:       0.00       1.83 cm
+  Iyy,Izz,Iyz.in com. coord:     105.27     941.55       0.00 cm^4
+  Ieta,Izeta in pri. coord :     941.55     105.27 cm^4
+  Angle, tan(Angle)      :      90.00 � (tan(90.00) = 2112610199.41)

@@ -1,0 +1,713 @@
+# depslib dependency file v1.0
+1522952955 source:f:\clfe_2018\new folder\twa\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1522953316 f:\clfe_2018\new folder\twa\include\base.h
+
+1522952996 source:f:\clfe_2018\new folder\twa\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1522953332 f:\clfe_2018\new folder\twa\include\element.h
+	"Base.h"
+	"Node.h"
+	"Gauss.h"
+
+1522953430 f:\clfe_2018\new folder\twa\include\node.h
+	"Base.h"
+
+1522953353 f:\clfe_2018\new folder\twa\include\gauss.h
+
+1522953052 source:f:\clfe_2018\new folder\twa\src\gauss.cpp
+	"Gauss.h"
+
+1522953085 source:f:\clfe_2018\new folder\twa\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1522953369 f:\clfe_2018\new folder\twa\include\line2.h
+	<Element.h>
+
+1522953125 source:f:\clfe_2018\new folder\twa\src\line3.cpp
+	"Line3.h"
+
+1522953390 f:\clfe_2018\new folder\twa\include\line3.h
+	"Element.h"
+
+1522953215 source:f:\clfe_2018\new folder\twa\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1523636635 source:f:\clfe_2018\new folder\twa\main.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Line2.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1522953443 f:\clfe_2018\new folder\twa\include\profile.h
+	"Base.h"
+
+1522956838 f:\clfe_2018\new folder\twa\include\lprofile.h
+	"Profile.h"
+
+1523102185 source:f:\clfe_2018\new folder\twa\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1523635009 source:f:\clfe_2018\new folder\twa\src\lprofile.cpp
+	"LProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1523636275 f:\clfe_2018\new folder\twa\include\combinedprofile.h
+	"Profile.h"
+
+1523636346 source:f:\clfe_2018\new folder\twa\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1522952955 source:f:\clfe_2018\clfe\twa\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1522953316 f:\clfe_2018\clfe\twa\include\base.h
+
+1523805580 source:f:\clfe_2018\clfe\twa\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1523805651 f:\clfe_2018\clfe\twa\include\combinedprofile.h
+	"Profile.h"
+
+1522953443 f:\clfe_2018\clfe\twa\include\profile.h
+	"Base.h"
+
+1522953369 f:\clfe_2018\clfe\twa\include\line2.h
+	<Element.h>
+
+1523805671 f:\clfe_2018\clfe\twa\include\element.h
+	"Base.h"
+	"Node.h"
+
+1522953430 f:\clfe_2018\clfe\twa\include\node.h
+	"Base.h"
+
+1522953353 f:\clfe_2018\clfe\twa\include\gauss.h
+
+1522952996 source:f:\clfe_2018\clfe\twa\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1522953052 source:f:\clfe_2018\clfe\twa\src\gauss.cpp
+	"Gauss.h"
+
+1523646280 source:f:\clfe_2018\clfe\twa\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1522953125 source:f:\clfe_2018\clfe\twa\src\line3.cpp
+	"Line3.h"
+
+1522953390 f:\clfe_2018\clfe\twa\include\line3.h
+	"Element.h"
+
+1522953215 source:f:\clfe_2018\clfe\twa\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1523803074 source:f:\clfe_2018\clfe\twa\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1523805081 source:f:\clfe_2018\clfe\twa\main.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Line2.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1532251662 source:d:\twa\main.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Line2.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1526946682 d:\twa\include\base.h
+
+1526946682 d:\twa\include\node.h
+	"Base.h"
+
+1526946682 d:\twa\include\line2.h
+	<Element.h>
+
+1526946682 d:\twa\include\element.h
+	"Base.h"
+	"Node.h"
+
+1526946682 d:\twa\include\profile.h
+	"Base.h"
+
+1526946682 d:\twa\include\combinedprofile.h
+	"Profile.h"
+
+1526946683 source:d:\twa\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1526946683 source:d:\twa\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1526946683 source:d:\twa\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1526946683 source:d:\twa\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1526946683 source:d:\twa\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1526946683 source:d:\twa\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1526946683 source:d:\sanjay\twa\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1526946682 d:\sanjay\twa\include\base.h
+
+1526946683 source:d:\sanjay\twa\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1526946682 d:\sanjay\twa\include\element.h
+	"Base.h"
+	"Node.h"
+
+1526946682 d:\sanjay\twa\include\node.h
+	"Base.h"
+
+1526946683 source:d:\sanjay\twa\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1526946682 d:\sanjay\twa\include\line2.h
+	<Element.h>
+
+1526946683 source:d:\sanjay\twa\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1532508039 source:d:\sanjay\twa\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1532338765 d:\sanjay\twa\include\profile.h
+	"Base.h"
+
+1534952065 source:d:\sanjay\twa\main.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Line2.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1534951689 d:\sanjay\twa\include\combinedprofile.h
+	"Profile.h"
+
+1534951857 source:d:\sanjay\twa\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1534956278 source:f:\clfe_sanjay\twa (2)\twa\main.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Line2.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1526946684 f:\clfe_sanjay\twa (2)\twa\include\base.h
+
+1526946684 f:\clfe_sanjay\twa (2)\twa\include\node.h
+	"Base.h"
+
+1526946684 f:\clfe_sanjay\twa (2)\twa\include\line2.h
+	<Element.h>
+
+1526946684 f:\clfe_sanjay\twa (2)\twa\include\element.h
+	"Base.h"
+	"Node.h"
+
+1532338766 f:\clfe_sanjay\twa (2)\twa\include\profile.h
+	"Base.h"
+
+1534955575 f:\clfe_sanjay\twa (2)\twa\include\combinedprofile.h
+	"Profile.h"
+
+1526946684 source:f:\clfe_sanjay\twa (2)\twa\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1534956278 source:f:\clfe_sanjay\twa (2)\twa\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1526946684 source:f:\clfe_sanjay\twa (2)\twa\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1534956278 source:f:\clfe_sanjay\twa (2)\twa\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1526946684 source:f:\clfe_sanjay\twa (2)\twa\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1534955330 source:f:\clfe_sanjay\twa (2)\twa\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1526946684 source:f:\clfe_sanjay\clfe_final\project_3_profile\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1526946684 f:\clfe_sanjay\clfe_final\project_3_profile\include\base.h
+
+1534956278 source:f:\clfe_sanjay\clfe_final\project_3_profile\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1534955575 f:\clfe_sanjay\clfe_final\project_3_profile\include\combinedprofile.h
+	"Profile.h"
+
+1532338766 f:\clfe_sanjay\clfe_final\project_3_profile\include\profile.h
+	"Base.h"
+
+1526946684 f:\clfe_sanjay\clfe_final\project_3_profile\include\line2.h
+	<Element.h>
+
+1526946684 f:\clfe_sanjay\clfe_final\project_3_profile\include\element.h
+	"Base.h"
+	"Node.h"
+
+1526946684 f:\clfe_sanjay\clfe_final\project_3_profile\include\node.h
+	"Base.h"
+
+1526946684 source:f:\clfe_sanjay\clfe_final\project_3_profile\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1534956278 source:f:\clfe_sanjay\clfe_final\project_3_profile\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1526946684 source:f:\clfe_sanjay\clfe_final\project_3_profile\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1534956299 source:f:\clfe_sanjay\clfe_final\project_3_profile\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1526943084 source:f:\anupam\studies\clfe\sanjay clfe\project_3_profile\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1550239884 f:\anupam\studies\clfe\sanjay clfe\project_3_profile\include\base.h
+
+1550236248 source:f:\anupam\studies\clfe\sanjay clfe\project_3_profile\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1550239871 f:\anupam\studies\clfe\sanjay clfe\project_3_profile\include\combinedprofile.h
+	"Profile.h"
+
+1532335166 f:\anupam\studies\clfe\sanjay clfe\project_3_profile\include\profile.h
+	"Base.h"
+
+1526943084 f:\anupam\studies\clfe\sanjay clfe\project_3_profile\include\line2.h
+	<Element.h>
+
+1526943084 f:\anupam\studies\clfe\sanjay clfe\project_3_profile\include\element.h
+	"Base.h"
+	"Node.h"
+
+1526943084 f:\anupam\studies\clfe\sanjay clfe\project_3_profile\include\node.h
+	"Base.h"
+
+1526943084 source:f:\anupam\studies\clfe\sanjay clfe\project_3_profile\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1534952680 source:f:\anupam\studies\clfe\sanjay clfe\project_3_profile\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1526943084 source:f:\anupam\studies\clfe\sanjay clfe\project_3_profile\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1534952700 source:f:\anupam\studies\clfe\sanjay clfe\project_3_profile\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1535220204 source:f:\anupam\studies\clfe\sanjay clfe\project_3_profile\main.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Line2.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1526943084 source:f:\anupam\studies\clfe\clfe anupam\project_3_profile\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1550239884 f:\anupam\studies\clfe\clfe anupam\project_3_profile\include\base.h
+
+1526943084 source:f:\anupam\studies\clfe\clfe anupam\project_3_profile\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1526943084 f:\anupam\studies\clfe\clfe anupam\project_3_profile\include\element.h
+	"Base.h"
+	"Node.h"
+
+1526943084 f:\anupam\studies\clfe\clfe anupam\project_3_profile\include\node.h
+	"Base.h"
+
+1534952680 source:f:\anupam\studies\clfe\clfe anupam\project_3_profile\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1526943084 f:\anupam\studies\clfe\clfe anupam\project_3_profile\include\line2.h
+	<Element.h>
+
+1526943084 source:f:\anupam\studies\clfe\clfe anupam\project_3_profile\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1534952700 source:f:\anupam\studies\clfe\clfe anupam\project_3_profile\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1532335166 f:\anupam\studies\clfe\clfe anupam\project_3_profile\include\profile.h
+	"Base.h"
+
+1550768935 source:f:\anupam\studies\clfe\clfe anupam\project_3_profile\main.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Line2.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1550769015 f:\anupam\studies\clfe\clfe anupam\project_3_profile\include\combinedprofile.h
+	"Profile.h"
+
+1550769114 source:f:\anupam\studies\clfe\clfe anupam\project_3_profile\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1526943084 source:f:\anupam\studies\clfe\clfe anupam\combined profile - copy\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1550239884 f:\anupam\studies\clfe\clfe anupam\combined profile - copy\include\base.h
+
+1526943084 source:f:\anupam\studies\clfe\clfe anupam\combined profile - copy\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1526943084 f:\anupam\studies\clfe\clfe anupam\combined profile - copy\include\element.h
+	"Base.h"
+	"Node.h"
+
+1526943084 f:\anupam\studies\clfe\clfe anupam\combined profile - copy\include\node.h
+	"Base.h"
+
+1534952680 source:f:\anupam\studies\clfe\clfe anupam\combined profile - copy\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1526943084 f:\anupam\studies\clfe\clfe anupam\combined profile - copy\include\line2.h
+	<Element.h>
+
+1526943084 source:f:\anupam\studies\clfe\clfe anupam\combined profile - copy\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1534952700 source:f:\anupam\studies\clfe\clfe anupam\combined profile - copy\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1532335166 f:\anupam\studies\clfe\clfe anupam\combined profile - copy\include\profile.h
+	"Base.h"
+
+1550835020 source:f:\anupam\studies\clfe\clfe anupam\combined profile - copy\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1550769015 f:\anupam\studies\clfe\clfe anupam\combined profile - copy\include\combinedprofile.h
+	"Profile.h"
+
+1534952680 source:f:\anupam\studies\clfe\clfe anupam\combined profile\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1526943084 f:\anupam\studies\clfe\clfe anupam\combined profile\include\line2.h
+	<Element.h>
+
+1526943084 f:\anupam\studies\clfe\clfe anupam\combined profile\include\element.h
+	"Base.h"
+	"Node.h"
+
+1550239884 f:\anupam\studies\clfe\clfe anupam\combined profile\include\base.h
+
+1526943084 f:\anupam\studies\clfe\clfe anupam\combined profile\include\node.h
+	"Base.h"
+
+1550835993 source:f:\anupam\studies\clfe\clfe anupam\combined profile\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1550915374 source:f:\anupam\studies\clfe\clfe anupam\combined profile\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Line2.h"
+	<math.h>
+	<stdio.h>
+
+1550836286 f:\anupam\studies\clfe\clfe anupam\combined profile\include\combinedprofile.h
+	"Profile.h"
+
+1532335166 f:\anupam\studies\clfe\clfe anupam\combined profile\include\profile.h
+	"Base.h"
+
+1550835930 source:f:\anupam\studies\clfe\clfe anupam\combined profile\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1550835827 source:f:\anupam\studies\clfe\clfe anupam\combined profile\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1550835870 source:f:\anupam\studies\clfe\clfe anupam\combined profile\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1550915314 source:f:\anupam\studies\clfe\clfe anupam\combined profile\main.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Line2.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1561377435 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1550243484 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\include\base.h
+
+1561381397 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Element.h"
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1550839886 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\include\combinedprofile.h
+	"Profile.h"
+
+1561377478 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\include\profile.h
+	"Base.h"
+
+1526946684 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\include\line2.h
+	<Element.h>
+
+1561377454 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\include\element.h
+	"Base.h"
+	"Node.h"
+
+1526946684 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\include\node.h
+	"Base.h"
+
+1550839530 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1534956280 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1561381317 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1561377321 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1561381416 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project_3_combinedprofile\maintwa.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Element.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1561383612 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\src\line2.cpp
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1561384464 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\include\line2.h
+	<Element.h>
+
+1561384510 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\include\element.h
+	"Base.h"
+	"Node.h"
+
+1561384481 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\include\base.h
+
+1561384475 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\include\node.h
+	"Base.h"
+
+1561383698 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\src\profile.cpp
+	<string.h>
+	<stdio.h>
+	"Profile.h"
+	"Node.h"
+	"Element.h"
+	<math.h>
+
+1561384502 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\include\profile.h
+	"Base.h"
+
+1561384578 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\maintwa.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Element.h"
+	"Profile.h"
+	"CombinedProfile.h"
+	<math.h>
+
+1561384491 f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\include\combinedprofile.h
+	"Profile.h"
+
+1561384522 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\src\base.cpp
+	"Base.h"
+	<stdio.h>
+
+1561384606 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\src\combinedprofile.cpp
+	"CombinedProfile.h"
+	"Element.h"
+	<stdio.h>
+	<math.h>
+	"Line2.h"
+
+1561384532 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\src\element.cpp
+	<stdio.h>
+	"Element.h"
+
+1561384557 source:f:\anupam\studies\clfe\clfe-ws1617-chakraborty-anupam-3039242-2\project-3-combinedprofile\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
