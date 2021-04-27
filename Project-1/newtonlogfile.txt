@@ -1,0 +1,27 @@
+ -->  0 error(s) found in input file
+
+
+ *******************************************************************
+      INPUT data / Corrected INPUT data
+ *******************************************************************
+ Maximum number roots to be found..................:   30
+ Lower bound of search interval....................:   -4.0000
+ Upper bound of search interval....................:    4.0000
+ Step width for the starting position x0...........:    0.0500
+ Precision for the newton algorithm................:    0.1000E-06
+ Step width for derivative.........................:    0.0100
+ Maximum number of iteration for one root search...:  100
+ *******************************************************************
+
+
+
+ *******************************************************************
+      Solution found
+ *******************************************************************
+ ******************************
+ Number of roots found:   1
+ ******************************
+  No.          Roots(x)
+ ******************************
+   1          -1.9828
+ ******************************
